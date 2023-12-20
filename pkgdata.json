@@ -1,9 +1,0 @@
-{
-	"name": "filesystem",
-	"package": "io.github.citrusoslinux",
-	"version": "2023.0.0",
-	"type": "zip dirstruct",
-	"dependencies": [
-		"iana-etc"
-	]
-}
