@@ -1,0 +1,11 @@
+NAME="Citrus OS 2023.0.0"
+PRETTY_NAME="Citrus OS"
+ID=citrusos
+BUILD_ID=2023.0.0
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://CitrusOSLinux.github.io/"
+DOCUMENTATION_URL="https://github.com/CitrusOSLinux/CitrusOSLinux/wiki"
+SUPPORT_URL="https://github.com/CitrusOSLinux/CitrusOSLinux/issues"
+BUG_REPORT_URL="https://github.com/CitrusOSLinux/CitrusOSLinux/issues"
+PRIVACY_POLICY_URL="https://raw.githubusercontent.com/CitrusOSLinux/CitrusOSLinux/main/LICENSE"
+LOGO=citrusos-logo
